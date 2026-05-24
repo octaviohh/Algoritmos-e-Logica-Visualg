@@ -1,4 +1,4 @@
-# Algoritmos-e-Logica-Visualg
+# Algoritmos-e-Logica-Visualg(Ferramenta Pedagógica)
 Acompanhe minha evolução na Disciplina de Algoritmos e Lógica de Programação - Curso Desenvolvimento de Software - Fatec Jahu
 <img width="1878" height="1049" alt="capa" src="https://github.com/user-attachments/assets/2c84e0a0-fe34-44d6-86f6-026b8042f325" />
 <img width="791" height="882" alt="image" src="https://github.com/user-attachments/assets/10eca915-305a-4299-bfa0-742fabb995e7" />
