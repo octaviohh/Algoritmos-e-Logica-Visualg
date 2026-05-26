@@ -8,3 +8,7 @@ Acompanhe minha evolução na Disciplina de Algoritmos e Lógica de Programaçã
 <img width="797" height="891" alt="image" src="https://github.com/user-attachments/assets/d6c3f843-bac5-44e7-90ce-12781d3169e9" />
 <img width="795" height="885" alt="image" src="https://github.com/user-attachments/assets/b1e710b6-2ea1-433f-bfd2-f95edc1f2cf7" />
 <img width="792" height="888" alt="image" src="https://github.com/user-attachments/assets/5f9bdb76-2048-4726-8f61-04118f4d8853" />
+<img width="1883" height="1053" alt="capa_vetores e matrizes" src="https://github.com/user-attachments/assets/842f1d52-fb01-49f7-9fd4-5eba02e37828" />
+<img width="789" height="883" alt="image" src="https://github.com/user-attachments/assets/6c74383a-01c3-48a8-8f16-b770432fab05" />
+<img width="797" height="883" alt="image" src="https://github.com/user-attachments/assets/9b09f7b3-9db9-431b-be20-3e344eab434f" />
+<img width="791" height="884" alt="image" src="https://github.com/user-attachments/assets/b0d00e27-1982-497c-84d2-b47fabb358f4" />
